@@ -4,3 +4,5 @@
   summary of the purpose of code
   variables and there functionality
   finally what this function returns
+2.For outputting on new lines
+  \n
