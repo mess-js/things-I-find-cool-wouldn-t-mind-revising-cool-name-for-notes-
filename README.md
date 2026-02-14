@@ -6,3 +6,8 @@
   finally what this function returns
 2.For outputting on new lines
   \n
+3.pass
+for procrastinating on writing code
+eg.
+class MyClass:
+    pass  # I'll add attributes later
