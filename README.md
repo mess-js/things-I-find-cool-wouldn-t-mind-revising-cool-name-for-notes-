@@ -1,5 +1,8 @@
-Random notes dump.
-Topics Include:
-python
-Anaconda Navigator
-Repo Status : unfinished
+**Random notes dump**
+
+***Topics Include:***
+
+***python***
+
+***Anaconda Navigator***
+#### Repo Status : unfinished
